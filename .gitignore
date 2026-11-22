@@ -1,0 +1,34 @@
+# 编译输出
+Debug/
+Release/
+x64/
+x86/
+*.obj
+*.pdb
+*.ilk
+*.exe
+*.dll
+*.lib
+*.log
+*.tlog
+*.idb
+*.ipdb
+*.iobj
+*.ipch
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+*.opendb
+*.VC.db
+*.VC.opendb
+.vs/
+ipch/
+
+# Visual Studio 用户级配置（不应提交）
+*.user
+CppProperties.json
+.vscode/
+
+# 运行时数据（用户实际使用时生成）
+HospitalMIS/data/*.dat
